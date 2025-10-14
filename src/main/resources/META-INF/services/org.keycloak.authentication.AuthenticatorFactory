@@ -1,2 +1,2 @@
 
-org.keycloak.authentication.authenticators.browser.GroupUsernamePassowrdFormFactory
+org.keycloak.authentication.authenticators.browser.GroupUsernamePasswordFormFactory
