@@ -12,7 +12,7 @@ import org.keycloak.provider.ProviderConfigProperty;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GroupUsernamePassowrdFormFactory implements AuthenticatorFactory {
+public class GroupUsernamePasswordFormFactory implements AuthenticatorFactory {
     private static final List<ProviderConfigProperty> configProperties = new ArrayList<ProviderConfigProperty>();
 
     public static final String PROVIDER_ID = "auth-group-username-password-form";
