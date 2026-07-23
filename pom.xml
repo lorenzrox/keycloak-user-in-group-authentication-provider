@@ -4,7 +4,7 @@
 
     <groupId>org.keycloak</groupId>
     <artifactId>keycloak-user-in-group-authentication-provider</artifactId>
-    <version>24.0.0</version>
+    <version>26.7.0</version>
     <packaging>jar</packaging>
     <name>KeyCloak: 'user in group' authentication Provider</name>
     <description>KeyCloak: 'user in group' authentication Provider</description>
